@@ -4,7 +4,12 @@
   "version": "1.0.0",
   "type": "module",
   "keywords": [
-    "icon", "svg", "wordpress", "gutenberg", "create block", "beapi"
+    "icon",
+    "svg",
+    "wordpress",
+    "gutenberg",
+    "create block",
+    "beapi"
   ],
   "main": "src/index.js",
   "scripts": {
@@ -19,6 +24,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.19.0",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
