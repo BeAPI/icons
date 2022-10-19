@@ -5,9 +5,9 @@ Be API Icons Library for block creation for WordPress editor.
 ## Usage
 
 ```jsx
-import { Icon, check } from '@wordpress/icons';
+import { Icon, shapes } from '@beapi/icons';
 
-<Icon icon={ check } />;
+<Icon icon={ shapes } />;
 ```
 
 ## Props
