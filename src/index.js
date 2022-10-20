@@ -2,6 +2,7 @@ export { default as Icon } from './icon';
 
 export { default as accordion } from './library/accordion';
 export { default as alignWide } from './library/align-wide';
+export { default as bubbleQuestion } from './library/bubble-question';
 export { default as bubbles } from './library/bubbles';
 export { default as keyFigure } from './library/key-figure';
 export { default as navigation } from './library/navigation';
