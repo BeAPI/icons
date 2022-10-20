@@ -3,6 +3,10 @@
   "description": "Be API Icons Library for block creation for WordPress editor.",
   "version": "1.0.4",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeAPI/icons"
+  },
   "keywords": [
     "icon",
     "svg",
