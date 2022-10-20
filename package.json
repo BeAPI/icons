@@ -1,7 +1,7 @@
 {
   "name": "@beapi/icons",
   "description": "Be API Icons Library for creating block for WordPress editor.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "keywords": [
     "icon",
