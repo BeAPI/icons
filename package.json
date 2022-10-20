@@ -1,7 +1,7 @@
 {
   "name": "@beapi/icons",
-  "description": "Be API Icons Library for creating block for WordPress editor.",
-  "version": "1.0.3",
+  "description": "Be API Icons Library for block creation for WordPress editor.",
+  "version": "1.0.4",
   "type": "module",
   "keywords": [
     "icon",
@@ -11,7 +11,7 @@
     "create block",
     "beapi"
   ],
-  "main": "dist/assets/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
