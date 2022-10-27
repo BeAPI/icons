@@ -1,0 +1,13 @@
+/**
+ * WordPress dependencies
+ */
+import { SVG, Path } from '@wordpress/primitives';
+
+const item = (
+	<SVG xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+		<Path fill-rule="evenodd" clip-rule="evenodd" d="M6 7C6.55228 7 7 6.55228 7 6C7 5.44772 6.55228 5 6 5C5.44772 5 5 5.44772 5 6C5 6.55228 5.44772 7 6 7ZM9 5.2H19V6.7H9V5.2ZM10.5 10.5H18.5V13.5H10.5V10.5ZM9 9H10.5H18.5H20V10.5V13.5V15H18.5H10.5H9V13.5V10.5V9ZM19 17.25H9V18.75H19V17.25ZM6 14C7.10457 14 8 13.1046 8 12C8 10.8954 7.10457 10 6 10C4.89543 10 4 10.8954 4 12C4 13.1046 4.89543 14 6 14ZM7 18C7 18.5523 6.55228 19 6 19C5.44772 19 5 18.5523 5 18C5 17.4477 5.44772 17 6 17C6.55228 17 7 17.4477 7 18Z" />
+	</SVG>
+);
+
+export default item;
+
