@@ -17,4 +17,11 @@ export default defineConfig( {
 			babelrc: true,
 		},
 	} ) ],
+	optimizeDeps: {
+		esbuildOptions: {
+			loader: {
+				'.js': 'jsx',
+			},
+		},
+	},
 } );
