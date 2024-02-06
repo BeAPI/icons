@@ -10,6 +10,7 @@ export { default as navigation } from './library/navigation';
 export { default as plus } from './library/plus';
 export { default as postList } from './library/post-list';
 export { default as postListAlt } from './library/post-list-alt';
+export { default as shape } from './library/shape';
 export { default as shapes } from './library/shapes';
 export { default as tabs } from './library/tabs';
 export { default as title } from './library/title';

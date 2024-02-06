@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { Icon, accordion, alignWide, bubbleQuestion, bubbles, item, keyFigure, navigation, plus, postList, postListAlt, shapes, tabs, title } from './index';
+import { Icon, accordion, alignWide, bubbleQuestion, bubbles, item, keyFigure, navigation, plus, postList, postListAlt, shape, shapes, tabs, title } from './index';
 import './index.css';
 
 ReactDOM.createRoot( document.getElementById( 'root' ) ).render(
@@ -15,6 +15,7 @@ ReactDOM.createRoot( document.getElementById( 'root' ) ).render(
 		<Icon icon={ plus } size={ 64 } />
 		<Icon icon={ postList } size={ 64 } />
 		<Icon icon={ postListAlt } size={ 64 } />
+		<Icon icon={ shape } size={ 64 } />
 		<Icon icon={ shapes } size={ 64 } />
 		<Icon icon={ tabs } size={ 64 } />
 		<Icon icon={ title } size={ 64 } />
