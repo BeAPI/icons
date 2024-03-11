@@ -2,6 +2,8 @@ export { default as Icon } from './icon';
 
 export { default as accordion } from './library/accordion';
 export { default as alignWide } from './library/align-wide';
+export { default as anchor } from './library/anchor';
+export { default as anchorList } from './library/anchorList';
 export { default as bubbleQuestion } from './library/bubble-question';
 export { default as bubbles } from './library/bubbles';
 export { default as item } from './library/item';
