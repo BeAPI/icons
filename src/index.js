@@ -1,6 +1,8 @@
 export { default as Icon } from './icon';
 
 export { default as accordion } from './library/accordion';
+export { default as accordionItem } from './library/accordion-item';
+export { default as accordionTitle } from './library/accordion-title';
 export { default as alignWide } from './library/align-wide';
 export { default as anchor } from './library/anchor';
 export { default as anchorList } from './library/anchorList';
@@ -8,6 +10,7 @@ export { default as bubbleQuestion } from './library/bubble-question';
 export { default as bubbles } from './library/bubbles';
 export { default as item } from './library/item';
 export { default as keyFigure } from './library/key-figure';
+export { default as modal } from './library/modal';
 export { default as navigation } from './library/navigation';
 export { default as plus } from './library/plus';
 export { default as postList } from './library/post-list';
